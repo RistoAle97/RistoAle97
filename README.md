@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RistoAle97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm @RistoAle97
+- 🎓 BSc degree in Computer Science at the University of Florence.
+- 🎓 MSc student in Computer Science (Artificial Intelligence curriculum) at the University of Pisa.
+- 📚 Currently doing my last project before diving into the thesis for my master degree.
+- 🔨 I mostly work with Python right now.
 
-<!---
-RistoAle97/RistoAle97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RistoAle97&show_icons=true&theme=github_dark)
