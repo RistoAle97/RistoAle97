@@ -1,4 +1,4 @@
-# Hi, I'm @RistoAle97
+![Profile Introduction](assets/github_profile.png)
 - 🎓 BSc degree in Computer Science at the University of Florence.
 - 🎓 MSc student in Computer Science (Artificial Intelligence curriculum) at the University of Pisa.
 - 📚 Currently working on my master degree thesis.
