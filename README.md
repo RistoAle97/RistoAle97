@@ -1,7 +1,7 @@
 ![Profile Introduction](assets/github_profile.png)
-- 🎓 BSc degree in Computer Science at the University of Florence.
-- 🎓 MSc student in Computer Science (Artificial Intelligence curriculum) at the University of Pisa.
-- 📚 Currently working on my master degree thesis.
+- 🎓 BSc degree in Computer Science at University of Florence.
+- 🎓 MSc student in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
+- 📚 Currently working on my master degree thesis on non-atuoregressive NMT.
 - 🔨 I mostly work with Python right now.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RistoAle97&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
