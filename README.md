@@ -46,3 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="RistoAle97 Github Stats" height=200/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark" alt="RistoAle97 Most Used Languages" heigth=200/>
 </div>
+
+[![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
