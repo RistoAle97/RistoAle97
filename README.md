@@ -5,8 +5,7 @@
 # :technologist: About me
 
 - 🎓 B.Sc. degree in Computer Science at University of Florence.
-- 🎓 M.Sc. student in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
-- 📚 Currently working on my master degree thesis on non-autoregressive NMT.
+- 🎓 M.Sc. degree in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
 - 🔨 I mostly work with Python right now.
 
 ---
