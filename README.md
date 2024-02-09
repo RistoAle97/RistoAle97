@@ -7,6 +7,7 @@
 - 🎓 B.Sc. degree in Computer Science at University of Florence.
 - 🎓 M.Sc. degree in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
 - 🔨 I mostly work with Python right now.
+- 💼 Looking for a job as a Data Scientist or AI Engineer.
 
 ---
 
