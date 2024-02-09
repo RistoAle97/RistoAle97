@@ -1,4 +1,8 @@
-![Profile Introduction](assets/github_profile.png)
+<div align="center">
+
+![Profile Introduction](assets/github_profile_new.png)
+
+</div>
 
 ---
 
@@ -15,6 +19,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
+![MatLab](https://img.shields.io/badge/matlab-e16737?style=for-the-badge&logo=matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -43,8 +48,8 @@
 # :bookmark_tabs: Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show_icons=true&count_private=true&hide_border=true&theme=github_dark" alt="RistoAle97 Github Stats" height=200/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark" alt="RistoAle97 Most Used Languages" heigth=200/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=250/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=250/>
 </div>
 
 [![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
