@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Introduction](assets/github_profile_new.png)
+![Profile Introduction](assets/github_profile.png)
 
 </div>
 
