@@ -33,6 +33,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/tensorflow/tensorflow)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)
 [![matplotlib](https://img.shields.io/badge/matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/matplotlib/matplotlib)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)](https://github.com/mlflow/mlflow)
 
 ### OS
 ![Windows11](https://img.shields.io/badge/Windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
