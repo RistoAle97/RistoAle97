@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 
 ![Profile Introduction](assets/github_profile.png)
 
@@ -11,6 +11,32 @@
 - 🎓 B.Sc. degree in Computer Science at University of Florence.
 - 🎓 M.Sc. degree in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
 - 🔨 I mostly work with Python right now.
+-->
+
+# 🧑‍💻 About me
+```python
+from world import Human
+
+
+class Myself(Human):
+  def __init__(self) -> None:
+    self.username = "RistoAle97"
+    self.name = "Alessandro"
+    self.last_name = "Ristori"
+    self.bachelor = "Computer Science at University of Florence"
+    self.master = "Computer Science (AI curriculum) at University of Pisa"
+    self.role = "Big Data & AI Specialist"
+    self.company = "TAI Solutions"
+    self.main_interests = ["Artificial Intelligence", "Deep Learning", "Natural Language Processing"]
+    self.languages = {"it_IT": "Native", "en_GB": "B2", "es_ES": "B1"}
+
+  def welcome(self) -> None:
+    print(f"Hi! I'm {self.username}, welcome to my profile.")
+
+
+me = Myself()
+me.welcome()
+```
 
 ---
 
@@ -48,8 +74,8 @@
 # :bookmark_tabs: Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=250/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=250/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=240/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=240/>
 </div>
 
 [![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
