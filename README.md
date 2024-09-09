@@ -1,18 +1,3 @@
-<!--<div align="center">
-
-![Profile Introduction](assets/github_profile.png)
-
-</div>
-
----
-
-# :technologist: About me
-
-- 🎓 B.Sc. degree in Computer Science at University of Florence.
-- 🎓 M.Sc. degree in Computer Science (Artificial Intelligence curriculum) at University of Pisa.
-- 🔨 I mostly work with Python right now.
--->
-
 # 🧑‍💻 About me
 ```python
 from world import Human
@@ -68,6 +53,10 @@ me.welcome()
 ### Version control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 ---
 
