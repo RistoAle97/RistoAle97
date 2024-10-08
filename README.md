@@ -49,7 +49,7 @@ me.welcome()
 
 ### Tools and other stuff
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![uv](https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=astral&logoColor=white)
+![uv](https://img.shields.io/badge/uv%20&%20ruff-261230?style=for-the-badge&logo=astral&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/precommit-FAB040?style=for-the-badge&logo=precommit&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
