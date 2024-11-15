@@ -46,6 +46,7 @@ me.welcome()
 [![matplotlib](https://img.shields.io/badge/matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/matplotlib/matplotlib)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/opencv/opencv-python)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)](https://github.com/mlflow/mlflow)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/fastapi/fastapi)
 
 ### Tools and other stuff
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
