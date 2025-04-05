@@ -45,6 +45,8 @@ me.welcome()
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)
 [![matplotlib](https://img.shields.io/badge/matplotlib-65BAEA?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/matplotlib/matplotlib)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/opencv/opencv-python)
+[![wandb](https://img.shields.io/badge/wandb-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://github.com/wandb/wandb)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://github.com/pydantic/pydantic)
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white)](https://github.com/mlflow/mlflow)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/fastapi/fastapi)
 
