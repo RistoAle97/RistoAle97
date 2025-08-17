@@ -53,9 +53,11 @@ me.welcome()
 [![MLflow](https://img.shields.io/badge/MLflow-303030?style=for-the-badge&logo=MLflow&logoColor=white)](https://github.com/mlflow/mlflow)
 [![FastAPI](https://img.shields.io/badge/FastAPI-303030?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/fastapi/fastapi)
 [![YOLO](https://img.shields.io/badge/YOLO-303030?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
+[![Pytest](https://img.shields.io/badge/Pytest-303030?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/pytest-dev/pytest)
+
 
 ### Tools and other stuff
-![PyCharm](https://img.shields.io/badge/PyCharm-303030?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Codium](https://img.shields.io/badge/VSCodium-303030?style=for-the-badge&logo=vscodium&logoColor=white)
 ![ruff](https://img.shields.io/badge/ruff-303030?style=for-the-badge&logo=ruff&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-303030?style=for-the-badge&logo=uv&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/precommit-303030?style=for-the-badge&logo=precommit&logoColor=white)
@@ -65,6 +67,7 @@ me.welcome()
 ![MinIO](https://img.shields.io/badge/MinIO-303030?style=for-the-badge&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-303030?style=for-the-badge&logo=ollama&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-303030?style=for-the-badge&logo=materialformkdocs&logoColor=white)
 
 ### OS
 ![Windows11](https://img.shields.io/badge/Windows11-303030?style=for-the-badge&logo=windows11&logoColor=white)
