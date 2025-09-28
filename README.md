@@ -8,6 +8,7 @@ class Myself(Human):
     self.username = "RistoAle97"
     self.name = "Alessandro"
     self.last_name = "Ristori"
+    self.birthdate = "1997-05-24"
     self.bachelor = "Computer Science at University of Florence"
     self.master = "Computer Science (AI curriculum) at University of Pisa"
     self.role = "Big Data & AI Specialist"
@@ -21,6 +22,10 @@ class Myself(Human):
 
 me = Myself()
 me.welcome()
+```
+```console
+> python info.py
+Hi! I'm RistoAle97, welcome to my profile.
 ```
 
 ---
@@ -55,7 +60,6 @@ me.welcome()
 [![YOLO](https://img.shields.io/badge/YOLO-303030?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
 [![Pytest](https://img.shields.io/badge/Pytest-303030?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/pytest-dev/pytest)
 
-
 ### Tools and other stuff
 ![VS Codium](https://img.shields.io/badge/VSCodium-303030?style=for-the-badge&logo=vscodium&logoColor=white)
 ![ruff](https://img.shields.io/badge/ruff-303030?style=for-the-badge&logo=ruff&logoColor=white)
@@ -69,10 +73,6 @@ me.welcome()
 ![Ollama](https://img.shields.io/badge/Ollama-303030?style=for-the-badge&logo=ollama&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-303030?style=for-the-badge&logo=materialformkdocs&logoColor=white)
 
-### OS
-![Windows11](https://img.shields.io/badge/Windows11-303030?style=for-the-badge&logo=windows11&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-303030?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ### Version control
 ![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white)
@@ -84,7 +84,6 @@ me.welcome()
 ![Apache Spark](https://img.shields.io/badge/Spark-303030?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-303030?style=for-the-badge&logo=rust&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-303030?style=for-the-badge&logo=polars&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-303030?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -97,4 +96,4 @@ me.welcome()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=240/>
 </div>
 
-[![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
