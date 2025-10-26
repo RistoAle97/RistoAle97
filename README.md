@@ -72,6 +72,7 @@ Hi! I'm RistoAle97, welcome to my profile.
 ![Docker](https://img.shields.io/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-303030?style=for-the-badge&logo=ollama&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-303030?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+![Yaak](https://img.shields.io/badge/Yaak-303030?style=for-the-badge&logo=yaak&logoColor=white)
 
 ### Version control
 ![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=white)
