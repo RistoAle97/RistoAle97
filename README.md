@@ -1,4 +1,6 @@
-# 🧑‍💻 About me
+![banner](https://github.com/RistoAle97/RistoAle97/blob/main/banner.png)
+
+## :it: About me
 ```python
 from world import Human
 
@@ -30,7 +32,7 @@ Hi! I'm RistoAle97, welcome to my profile.
 
 ---
 
-# :hammer_and_wrench: Tech stack
+## :hammer_and_wrench: Tech stack
 
 <div align="center">
 
@@ -90,7 +92,7 @@ Hi! I'm RistoAle97, welcome to my profile.
 
 ---
 
-# :bookmark_tabs: Github Stats
+## :card_file_box: Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=240/>
