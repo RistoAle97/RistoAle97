@@ -64,11 +64,11 @@ Hi! I'm RistoAle97, welcome to my profile.
 ![VS Codium](https://img.shields.io/badge/VSCodium-303030?style=for-the-badge&logo=vscodium&logoColor=white)
 ![ruff](https://img.shields.io/badge/ruff-303030?style=for-the-badge&logo=ruff&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-303030?style=for-the-badge&logo=uv&logoColor=white)
+![ty](https://img.shields.io/badge/ty-303030?style=for-the-badge&logo=astral&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/precommit-303030?style=for-the-badge&logo=precommit&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-303030?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-303030?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-303030?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-303030?style=for-the-badge&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-303030?style=for-the-badge&logo=ollama&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-303030?style=for-the-badge&logo=materialformkdocs&logoColor=white)
@@ -96,5 +96,3 @@ Hi! I'm RistoAle97, welcome to my profile.
   <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=240/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=240/>
 </div>
-
-<!-- [![RistoAle97's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RistoAle97&theme=github-dark&hide_border=true&custom_title=RistoAle97%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
