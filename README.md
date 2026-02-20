@@ -93,8 +93,7 @@ Hi! I'm RistoAle97, welcome to my profile.
 ---
 
 ## :card_file_box: Github Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RistoAle97&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Github Stats" height=240/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RistoAle97&langs_count=3&hide_border=true&theme=github_dark&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=240/>
+  <img src="https://github-stats-extended.vercel.app/api?username=RistoAle97&hide_title=true&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=catppuccin_mocha&bg_color=00000000" alt="RistoAle97 Github Stats" height=240/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RistoAle97&hide_title=true&langs_count=3&hide_border=true&theme=catppuccin_mocha&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=240/>
 </div>
