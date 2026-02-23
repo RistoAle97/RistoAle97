@@ -54,8 +54,8 @@ Hi! I'm RistoAle97, welcome to my profile.
 ### Tools and other stuff
 | Category | Tools |
 | -------- | ----- |
-| ⚙️ Code Editors | ![VS Codium](https://img.shields.io/badge/vscode-303030?style=for-the-badge&logo=vscodium&logoColor=white) ![Zed](https://img.shields.io/badge/zed-303030?style=for-the-badge&logo=zedindustries&logoColor=white) |
-| 🧭 Browsers | ![Firefox](https://img.shields.io/badge/firefox-303030?style=for-the-badge&logo=firefoxbrowser&logoColor=white) ![Zen](https://img.shields.io/badge/zen-303030?style=for-the-badge&logo=zenbrowser&logoColor=white) |
+| ⚙️ Code Editors | [![VS Codium](https://img.shields.io/badge/vscode-303030?style=for-the-badge&logo=vscodium&logoColor=white)](https://github.com/VSCodium/vscodium) [![Zed](https://img.shields.io/badge/zed-303030?style=for-the-badge&logo=zedindustries&logoColor=white)](https://github.com/zed-industries/zed) |
+| 🧭 Browsers | ![Firefox](https://img.shields.io/badge/firefox-303030?style=for-the-badge&logo=firefoxbrowser&logoColor=white) [![Zen](https://img.shields.io/badge/zen-303030?style=for-the-badge&logo=zenbrowser&logoColor=white)](https://github.com/zen-browser/desktop) |
 | 🚀 Version Control | ![Git](https://img.shields.io/badge/Git-303030?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-303030?style=for-the-badge&logo=gitlab&logoColor=white) |
 | 📝 Notes | ![LaTeX](https://img.shields.io/badge/latex-303030?style=for-the-badge&logo=latex&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-303030?style=for-the-badge&logo=overleaf&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-303030?style=for-the-badge&logo=obsidian&logoColor=white) |
 | 💼 Miscellaneous | ![AWS](https://img.shields.io/badge/aws-303030?style=for-the-badge&logo=amazon-web-services&logoColor=white) ![Mosquitto](https://img.shields.io/badge/Mosquitto-303030?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-303030?style=for-the-badge&logo=docker&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-303030?style=for-the-badge&logo=ollama&logoColor=white) ![Yaak](https://img.shields.io/badge/Yaak-303030?style=for-the-badge&logo=yaak&logoColor=white) |
@@ -65,5 +65,5 @@ Hi! I'm RistoAle97, welcome to my profile.
 ## :card_file_box: Github Stats
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=RistoAle97&hide_title=true&show=reviews,discussions_started&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=catppuccin_mocha&bg_color=00000000" alt="RistoAle97 Github Stats" height=215/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RistoAle97&hide_title=true&langs_count=3&hide_border=true&theme=catppuccin_mocha&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=215/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RistoAle97&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=true&langs_count=10&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=catppuccin_mocha&bg_color=00000000" alt="RistoAle97 Most Used Languages" height=215/>
 </div>
