@@ -36,7 +36,7 @@ Hi! I'm RistoAle97, welcome to my profile.
 
 | Category | Languages |
 | -------- | --------- |
-| 🥇 Main | ![Python](https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=white) |
+| 🥇 Main | ![Python](https://img.shields.io/badge/Python-303030?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-303030?style=for-the-badge&logo=postgresql&logoColor=white) |
 | 🥈 Secondary | ![MatLab](https://img.shields.io/badge/matlab-303030?style=for-the-badge&logo=matlab&logoColor=white) ![C++](https://img.shields.io/badge/c++-303030?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-303030?style=for-the-badge&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/html-303030?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-303030?style=for-the-badge&logo=css&logoColor=white) |
 | 🎯 Learning | ![Rust](https://img.shields.io/badge/Rust-303030?style=for-the-badge&logo=rust&logoColor=white) |
 
